@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face{
+    font-family:'Roboto_regular';
+    src: url(../fonts/Roboto/robotocondensed-regular.woff2),
+    url(../fonts/Roboto/robotocondensed-regular.woff),
+    url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'roboto_regular'
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1366px;
+}
