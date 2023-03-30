@@ -77,5 +77,25 @@ h1{
     margin-top: 30px;
     width: 600px;
     height: 600px;
-    /* border-radius: 10%; */
+}
+
+/* main */
+
+#about_me{
+    background-color: #d8e1f2;
+    display: flex;
+}
+
+.about_me__h2{
+    background-color: #d8e1f2;
+    font-size: 32px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.about_me__text{
+    margin-bottom: 30px;
+}
+.about_me__text p {
+    margin-top: 10px;
 }
